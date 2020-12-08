@@ -10,3 +10,4 @@ OLD.typvarying, OLD.typklassevarying, OLD.datum_entsperrt, OLD.datum_gesperrt, O
 OLD.schlussabnahme_ist, OLD.deleted, OLD.ort_fzbriefvarying, OLD.plz_fzbriefvarying, audit_changed_on, TG_OP 
 NEW_LINE : 1
 AN ONE
+AND FROM Another source
