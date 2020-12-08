@@ -8,3 +8,5 @@ OLD.verbraucherlandvarying, OLD.vermarktungsbereichvarying, OLD.versandartvaryin
 OLD.ziellandvarying, OLD.zulassungsdatum, OLD.gewandelt, OLD.kunde_bekannt, OLD.zusatzinformationvarying, OLD.partnerauftragvarying, 
 OLD.typvarying, OLD.typklassevarying, OLD.datum_entsperrt, OLD.datum_gesperrt, OLD.modified_at, OLD.freigabe_vertriebseinheitvarying, 
 OLD.schlussabnahme_ist, OLD.deleted, OLD.ort_fzbriefvarying, OLD.plz_fzbriefvarying, audit_changed_on, TG_OP 
+NEW_LINE : 1
+AN ONE
