@@ -1,0 +1,10 @@
+id, version, abladeschluessel, aktionskuerzelvarying, auftragsnummervarying, angebotspreis, annullierungsdatum, annullierungsgrundvarying, 
+auftragseingangsdatum, auftragszustandvarying, ausstattungvarying, baumustervarying, bestelldatum, engine_cylinders, engine_style_textvarying, 
+erstzulassungsdatum, finvarying, order_classificationvarying, getriebevarying, hereinnahmevereinbarungvarying, konsignation_eingangsdatum, 
+konsignation_standplatzvarying, lackunterteilvarying, lackoberteilvarying, leasinggebernummervarying, lieferdatum, ortvarying, 
+pa_hinweisvarying, plzvarying, produktionsnummervarying, rabattnrvarying, marketingkennzeichenvarying, rollevarying, 
+typschluesselvarying, umbuchung_marktinternvarying, umsatzgebietvarying, vbet_abnehmendvarying, vbet_fzbriefvarying, 
+verbraucherlandvarying, vermarktungsbereichvarying, versandartvarying, verwendungvarying, zahlungsbedingungvarying, 
+ziellandvarying, zulassungsdatum, gewandelt, kunde_bekannt, zusatzinformationvarying, partnerauftragvarying, 
+typvarying, typklassevarying, datum_entsperrt, datum_gesperrt, modified_at, freigabe_vertriebseinheitvarying, 
+schlussabnahme_ist, deleted, ort_fzbriefvarying, plz_fzbriefvarying, changed_on 
